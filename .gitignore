@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+.env
+.env.*
+!.env.example
+.vercel/
+.venv/
+venv/
+app/uploads/*
+!app/uploads/.gitkeep
