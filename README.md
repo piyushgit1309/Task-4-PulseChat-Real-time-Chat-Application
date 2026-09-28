@@ -1,4 +1,4 @@
-# PulseChat — Real-Time WebSocket Chat Application
+# Task-4-PulseChat-Real-time-Chat-Application
 > **Full Stack Web Development Internship Task-04 Submission**
 
 PulseChat is a modern, high-performance, full-stack real-time messaging application engineered with **WebSocket technology**, **FastAPI**, **SQLite**, and an intuitive **Glassmorphism UI/UX design**.
